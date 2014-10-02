@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.lead {
+	color: Crimson;
+	font-size: 2em;
+}
+
+.center-block {
+	float: none;	
+}
