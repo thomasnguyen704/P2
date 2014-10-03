@@ -14,10 +14,6 @@
 
 <body>
 <div class="container">	
-	
-    <!-- VIEW INPUT
-	<pre> <?php print_r($_POST); ?> </pre>
-    -->
     
     <h1 class="page-header text-center"> xkcd Password Generator </h1>    
     
@@ -25,7 +21,7 @@
 	
     
     <p class="lead text-center"> 
-		<!-- START Password generator -->
+<!-- START Password generator -->
 		<?php
 
 		$i = 0;
@@ -39,7 +35,7 @@
 		echo $symbolArray[$symbol];
 		
 		?>
-        <!-- END Password Generator --> 
+<!-- END Password Generator --> 
     </p>
     
     
