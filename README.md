@@ -9,7 +9,8 @@
 
 <h2>Goals</h2>
 <p>Landing page includes a description of your app and what a xkcd password is (assume an unfamiliar audience).</p>
-<ul>Form inputs to specify:
+<p>Form inputs to specify:</p>
+<ul>
 	<li>How many words to use.</li>
 	<li>Whether to include a number.</li>
 	<li>Whether to include a special symbol (for example, @).</li>
